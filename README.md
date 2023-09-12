@@ -7,7 +7,7 @@
 ## 課程筆記區:grinning:
 
 ## 作業連結區:confused:
-[About Me !](https://github.com/ArielJunus/my-web)
+[About Me !](https://arieljunus.github.io/my-web/)
 
 ## 專題連結區:thinking:
 
