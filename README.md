@@ -7,7 +7,8 @@
 ## 課程筆記區:grinning:
 
 ## 作業連結區:confused:
-[About Me !](https://arieljunus.github.io/my-web/)
+[About Me !](https://arieljunus.github.io/my-web/)  
+[CRUD Tutorial !](https://youtu.be/qtpiLkOI-JE) EZ CRUD 101 Tutorial
 
 ## 專題連結區:thinking:
 
