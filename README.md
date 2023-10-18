@@ -8,7 +8,10 @@
 
 ## 作業連結區:confused:
 [About Me !](https://arieljunus.github.io/my-web/)  
-[CRUD Tutorial !](https://youtu.be/qtpiLkOI-JE) EZ CRUD 101 Tutorial
+[CRUD Tutorial !](https://youtu.be/qtpiLkOI-JE) EZ CRUD 101 Tutorial  
+
+[Pounds => Kg Website](https://arieljunus.github.io/my-web/weight-converter/index.html) Website to convert pounds to Kg  
+[Code Explanation](https://youtu.be/p91z4LxWmjk) Explanation video!  
 
 ## 專題連結區:thinking:
 
