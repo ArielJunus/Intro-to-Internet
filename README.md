@@ -13,6 +13,8 @@
 [Pounds => Kg Website](https://arieljunus.github.io/my-web/weight-converter/index.html) Website to convert pounds to Kg  
 [Code Explanation](https://youtu.be/p91z4LxWmjk) Explanation video!  
 
+[Azure Web Service](https://youtu.be/zWCc7n7BE9Q) deploying NodeJS Application using Azure Web Service!
+
 ## 專題連結區:thinking:
 
 ---
